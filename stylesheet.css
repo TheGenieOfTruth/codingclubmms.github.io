@@ -12,7 +12,7 @@
 }
 
 .parallax {
-    background-image: url("programming.jpg");
+    background-image: url("https://raw.githubusercontent.com/codingclubmms/codingclubmms.github.io/master/programming.jpg");
     min-height: 400px;
     background-attachment: fixed;
     background-position: center;
